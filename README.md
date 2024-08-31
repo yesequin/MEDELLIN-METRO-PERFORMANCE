@@ -7,9 +7,9 @@ Using Anaconda, Jupyter Notebook, Python, Looker Studio, BigQuery, and Google Cl
 
 ### Business Problem: 
 
-Assume you are a worker with a set schedule who makes use of the Medellin Metro to get to and from work. Every Tuesday and Thursday, you have the option of leaving or arriving an hour earlier or later than usual. You want to base your decision on how crowded the Metro line is. This project aims to address these issues and similars, in a way that any citizen can look for the information about the rush hour for any metro line, based on the day of the week, the month, or even for unusual dates. At a deeper level, the goal of this research is to predict how crowded a Metro line will be at a certain future date and time.
-
 ![MEDELLIN METRO PERFORMANCE-Individual Behavior](images/report_page2_1.png)
+
+Assume you are a worker with a set schedule who makes use of the Medellin Metro to get to and from work. Every Tuesday and Thursday, you have the option of leaving or arriving an hour earlier or later than usual. You want to base your decision on how crowded the Metro line is. This project aims to address these issues and similars, in a way that any citizen can look for the information about the rush hour for any metro line, based on the day of the week, the month, or even for unusual dates. At a deeper level, the goal of this research is to predict how crowded a Metro line will be at a certain future date and time.
 
 
 ### Methodology: 
